@@ -9,3 +9,7 @@
   text-decoration: none;
   color: inherit;
 }
+body {
+  background: linear-gradient(to bottom, #eaf8fb 0%, #ffffff 100%);
+  min-height: 100vh;
+}
